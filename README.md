@@ -1,1 +1,1 @@
-# product-card
+# stats-preview-card
